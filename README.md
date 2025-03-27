@@ -15,11 +15,11 @@ By reducing the number of features using PCA, we can uncover hidden patterns in 
 ## 📂 Project Structure
 
 ```
-├── ML_Individual.ipynb                # Jupyter notebook with code, visuals, and commentary
-├── Machine_Learning_Tutorial_Report.pdf  # Final report in PDF format
-├── README.md                          # This file
-├── LICENSE                            # Open-source license (MIT)
-└── customer_segmentation.csv          # Dataset (if allowed for sharing)
+├── ML Individual Assignment.ipynb                         # Jupyter notebook with code, visuals, and commentary
+├── Individual Assignment - Machine learning tutorial.pdf  # Final report in PDF format
+├── README.md                                              # This file
+├── LICENSE                                                # Open-source license (MIT)
+└── customer_segmentation.csv                              # Dataset (if allowed for sharing)
 ```
 
 ---
@@ -64,7 +64,7 @@ The dataset contains detailed information on customer age, education, marital st
    ```bash
    git clone https://github.com/your-username/PCA-Customer-Segmentation.git
    ```
-2. Open `ML_Individual.ipynb` in Jupyter Notebook or VS Code
+2. Open `ML Individual Assignment.ipynb` in Jupyter Notebook or VS Code
 3. Run the cells to view analysis and plots
 
 ---
